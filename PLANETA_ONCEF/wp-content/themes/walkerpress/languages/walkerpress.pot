@@ -1,0 +1,1417 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#: inc/customizer/footer-options.php:37 inc/customizer/header-options.php:38
+#: inc/customizer/pagetitle-options.php:38
+#: inc/customizer/social-options.php:38
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2022-01-11 10:09+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:50
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129 inc/widgets/walkerpress-widgets.php:19
+#: inc/widgets/walkerpress-widgets.php:30
+#: inc/widgets/walkerpress-widgets.php:41
+#: inc/widgets/walkerpress-widgets.php:52
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+#: template-parts/partials/sub-header/subheader-layout-1.php:17
+msgid "Search"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Logo Size [PX]"
+msgstr ""
+
+#: inc/template-functions.php:230 inc/template-functions.php:261
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-functions.php:233 inc/template-functions.php:264
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:239 inc/template-functions.php:270
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/template-functions.php:343
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:350
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63 inc/template-tags.php:188
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70 inc/template-tags.php:223
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73 inc/template-tags.php:226
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:48
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:191
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:239
+#, php-format
+msgid "0 Comment <span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:322
+msgid " Minute"
+msgstr ""
+
+#: inc/template-tags.php:324
+msgid " Minutes"
+msgstr ""
+
+#: inc/template-tags.php:334 template-parts/content-single.php:52
+msgid "Estimated Reading Time of Article"
+msgstr ""
+
+#: inc/walkerpress-custom-controls.php:137
+#: inc/customizer/frontpage-options.php:139
+#: inc/customizer/frontpage-options.php:159
+#: inc/customizer/frontpage-options.php:478
+#: inc/customizer/frontpage-options.php:684
+msgid "Select Category"
+msgstr ""
+
+#: inc/walkerpress-custom-controls.php:206
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/blog-options.php:12
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/blog-options.php:42 inc/customizer/blog-options.php:278
+msgid "Choose Sidebar Position"
+msgstr ""
+
+#: inc/customizer/blog-options.php:72
+msgid "Choose Post View"
+msgstr ""
+
+#: inc/customizer/blog-options.php:90
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/blog-options.php:95
+msgid "Next/Preview - Default"
+msgstr ""
+
+#: inc/customizer/blog-options.php:96
+msgid "Numeric Style"
+msgstr ""
+
+#: inc/customizer/blog-options.php:114
+msgid "Choose Pagination Style"
+msgstr ""
+
+#: inc/customizer/blog-options.php:131 inc/customizer/blog-options.php:309
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/blog-options.php:145 inc/customizer/blog-options.php:323
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/blog-options.php:159 inc/customizer/blog-options.php:337
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/blog-options.php:173 inc/customizer/blog-options.php:351
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/blog-options.php:187
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer/blog-options.php:201 inc/customizer/blog-options.php:408
+msgid "Top Ads: Upload Image"
+msgstr ""
+
+#: inc/customizer/blog-options.php:202
+msgid "Advertisement Image to be shown on top of the blog page"
+msgstr ""
+
+#: inc/customizer/blog-options.php:214 inc/customizer/blog-options.php:421
+msgid "Top Advertisement Link"
+msgstr ""
+
+#: inc/customizer/blog-options.php:226 inc/customizer/blog-options.php:433
+msgid "Bottom Ads: Upload Image"
+msgstr ""
+
+#: inc/customizer/blog-options.php:227
+msgid "Advertisement Image to be shown on bottom of the blog page"
+msgstr ""
+
+#: inc/customizer/blog-options.php:239 inc/customizer/blog-options.php:446
+msgid "Bottom Advertisement Link"
+msgstr ""
+
+#: inc/customizer/blog-options.php:250
+msgid "Single Blog Page"
+msgstr ""
+
+#: inc/customizer/blog-options.php:294
+msgid "Enable Related Post"
+msgstr ""
+
+#: inc/customizer/blog-options.php:365
+msgid "Show Post Navigation"
+msgstr ""
+
+#: inc/customizer/blog-options.php:379
+msgid "Enable Author Box"
+msgstr ""
+
+#: inc/customizer/blog-options.php:395
+msgid "Heading for Related Post"
+msgstr ""
+
+#: inc/customizer/blog-options.php:409
+msgid "Advertisement Image to be shown ontop of the single post"
+msgstr ""
+
+#: inc/customizer/blog-options.php:434
+msgid "Advertisement Image to be shown on bottom of the single page"
+msgstr ""
+
+#: inc/customizer/color-options.php:12
+#: inc/customizer/frontpage-options.php:756
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:28
+msgid "Site Color Settings"
+msgstr ""
+
+#: inc/customizer/color-options.php:29 inc/customizer/color-options.php:151
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:46 inc/customizer/color-options.php:168
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:63
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:80 inc/customizer/color-options.php:185
+#: inc/customizer/footer-options.php:141 inc/customizer/header-options.php:194
+#: inc/customizer/pagetitle-options.php:239
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:98
+msgid "Light Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:115
+msgid "Topbar Color Settings"
+msgstr ""
+
+#: inc/customizer/color-options.php:116 inc/customizer/footer-options.php:82
+#: inc/customizer/footer-options.php:195 inc/customizer/footer-options.php:285
+#: inc/customizer/header-options.php:150
+#: inc/customizer/pagetitle-options.php:138
+#: inc/customizer/social-options.php:129 inc/customizer/social-options.php:166
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:133
+msgid "Topbar Text Color"
+msgstr ""
+
+#: inc/customizer/color-options.php:150
+msgid "Menu Color Settings"
+msgstr ""
+
+#: inc/customizer/footer-options.php:13
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/footer-options.php:28 inc/customizer/header-options.php:29
+#: inc/customizer/pagetitle-options.php:29
+#: inc/customizer/social-options.php:29
+msgid "General"
+msgstr ""
+
+#: inc/customizer/footer-options.php:29 inc/customizer/header-options.php:30
+#: inc/customizer/pagetitle-options.php:30
+#: inc/customizer/social-options.php:30
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/footer-options.php:57
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-options.php:58 inc/customizer/header-options.php:241
+#: inc/widgets/walkerpress-double-category-widget.php:1008
+#: inc/widgets/walkerpress-latest-post-widget.php:86
+#: inc/widgets/walkerpress-newsletter-widget.php:76
+#: inc/widgets/walkerpress-popular-post-widget.php:91
+#: inc/widgets/walkerpress-single-category-widget.php:540
+#: inc/widgets/walkerpress-three-category-widget.php:826
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/customizer/footer-options.php:61
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/footer-options.php:62
+msgid "Layout 2"
+msgstr ""
+
+#: inc/customizer/footer-options.php:63
+msgid "Layout 3"
+msgstr ""
+
+#: inc/customizer/footer-options.php:96 inc/customizer/header-options.php:133
+#: inc/customizer/pagetitle-options.php:151
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/footer-options.php:116 inc/customizer/footer-options.php:321
+#: inc/customizer/header-options.php:172
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/customizer/footer-options.php:159
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/footer-options.php:177
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/footer-options.php:194
+msgid "Footer Column Box"
+msgstr ""
+
+#: inc/customizer/footer-options.php:214
+msgid "Box Background Opacity"
+msgstr ""
+
+#: inc/customizer/footer-options.php:240 inc/customizer/footer-options.php:413
+#: inc/customizer/header-options.php:360
+#: inc/customizer/pagetitle-options.php:259
+msgid "Section Top Space"
+msgstr ""
+
+#: inc/customizer/footer-options.php:263 inc/customizer/footer-options.php:436
+#: inc/customizer/header-options.php:383
+#: inc/customizer/pagetitle-options.php:283
+msgid "Section Bottom Space"
+msgstr ""
+
+#: inc/customizer/footer-options.php:284
+msgid "Copyright Settings"
+msgstr ""
+
+#: inc/customizer/footer-options.php:300
+msgid "Enable Social Icons In Footer Bottom"
+msgstr ""
+
+#: inc/customizer/footer-options.php:344
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer/footer-options.php:365
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer-options.php:383
+msgid "Copyright Text Alignment"
+msgstr ""
+
+#: inc/customizer/footer-options.php:388
+#: inc/widgets/walkerpress-newsletter-widget.php:74
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/footer-options.php:389
+#: inc/widgets/walkerpress-newsletter-widget.php:74
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:13
+msgid "News Ticker"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:27
+msgid "Enable News Ticker"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:42
+msgid "Enable News Ticker all over site"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:70
+msgid "Choose Focus News Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:90
+msgid "Ticker News Heading"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:91
+msgid "Heading text for display on ticker news section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:109
+#: inc/customizer/frontpage-options.php:293
+msgid "Total Item To Display"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:134
+msgid "Choose Post Type"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:138
+#: template-parts/partials/banner-layout/banner-layout-1.php:123
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:160
+msgid ""
+"Select category to be shown on home page news ticker section. Recommended "
+"minimum 5 and maximum 15"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:173
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:187
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:201
+msgid "Enable banner section all over site"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:246
+msgid "Choose Banner Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:266
+msgid "Select Slide Category"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:318
+msgid "Select Grid Category"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:341
+msgid "Latest Post Heading"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:357
+msgid "Popular Post Heading"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:378
+msgid "Featured Container Style"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:383
+msgid "Box Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:384
+msgid "Full width Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:398
+#: inc/customizer/frontpage-options.php:498
+#: inc/customizer/frontpage-options.php:604
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:399
+msgid "Advertisement Image for featured section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:415
+#: inc/customizer/frontpage-options.php:515
+#: inc/customizer/frontpage-options.php:621
+#: inc/customizer/header-options.php:338
+msgid "Advertisement Link"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:429
+#: template-parts/partials/featured-posts/featured-post-layout-1.php:8
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:443
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:460
+#: inc/customizer/frontpage-options.php:666
+msgid "Section Heading"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:499
+msgid "Advertisement Image for featured post section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:529
+msgid "Category Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:543
+msgid "Enable Category Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:560
+#: inc/widgets/walkerpress-double-category-widget.php:1021
+#: inc/widgets/walkerpress-three-category-widget.php:839
+msgid "Category 1"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:584
+#: inc/widgets/walkerpress-double-category-widget.php:1038
+#: inc/widgets/walkerpress-three-category-widget.php:856
+msgid "Category 2"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:605
+msgid "Advertisement Image for featured category post section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:635
+msgid "You May Missing Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:649
+msgid "Enable you may missed section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:702
+msgid "Frontpage Styles"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:718
+msgid "Frontpage Style Setting"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:719
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:738
+msgid "Frontpage Meta Setting"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:739
+msgid "Meta Color"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:755
+msgid "Category Settings"
+msgstr ""
+
+#: inc/customizer/header-options.php:14
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/header-options.php:52
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/header-options.php:69
+msgid "Enable current date"
+msgstr ""
+
+#: inc/customizer/header-options.php:86
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/customizer/header-options.php:103
+msgid "Show Search Icon in Header"
+msgstr ""
+
+#: inc/customizer/header-options.php:119
+msgid "Enable Sidebar Panel Feature"
+msgstr ""
+
+#: inc/customizer/header-options.php:134
+msgid "Recomended Size for Background Image- 1920x250 pixel"
+msgstr ""
+
+#: inc/customizer/header-options.php:211
+msgid "Site Name color"
+msgstr ""
+
+#: inc/customizer/header-options.php:251
+msgid "Image- Default"
+msgstr ""
+
+#: inc/customizer/header-options.php:252
+msgid "Widget Content"
+msgstr ""
+
+#: inc/customizer/header-options.php:255
+msgid "Below Branding"
+msgstr ""
+
+#: inc/customizer/header-options.php:256
+msgid "Above Branding"
+msgstr ""
+
+#: inc/customizer/header-options.php:272
+msgid "Header Ads Settings"
+msgstr ""
+
+#: inc/customizer/header-options.php:273
+msgid "Choose Ads Type"
+msgstr ""
+
+#: inc/customizer/header-options.php:306
+msgid "Header Ads Position"
+msgstr ""
+
+#: inc/customizer/header-options.php:322
+msgid "Upload Ads. Image"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:15
+msgid "Page Options"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:52
+msgid "Enable Featured Image"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:67
+msgid "Enable Title of Inside Content"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:77
+msgid "Sub Header Options"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:90
+msgid "Enable Sub-Header Section"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:105
+msgid "Enable Title"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:120
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:165
+msgid "Use Post Featured Image as Background Image"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:185
+msgid "Sub Header Height [PX]"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:209
+msgid "Opacity"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:300
+msgid "Scroll Top Options"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:313
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:324
+msgid "Content Width"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:341
+msgid "Main Container Width [PX]"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:363
+msgid "Sidebar Width [%]"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:378
+msgid "Button Options"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:395
+msgid "Border Radius [px]"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:406
+msgid "Initial - Default"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:407
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:408
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:409
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:427
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/pagetitle-options.php:447
+#: inc/customizer/typography-options.php:295
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/social-options.php:14
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/social-options.php:45
+msgid "Boxed Layout - Default"
+msgstr ""
+
+#: inc/customizer/social-options.php:46
+msgid "Normal Layout"
+msgstr ""
+
+#: inc/customizer/social-options.php:62
+msgid "Icon Style"
+msgstr ""
+
+#: inc/customizer/social-options.php:73
+msgid "Brand Color - Default"
+msgstr ""
+
+#: inc/customizer/social-options.php:74
+msgid "Custom Color"
+msgstr ""
+
+#: inc/customizer/social-options.php:91 inc/customizer/social-options.php:111
+#: inc/customizer/social-options.php:147
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/social-options.php:110
+msgid "Normal Style"
+msgstr ""
+
+#: inc/customizer/social-options.php:146
+msgid "Hover Style"
+msgstr ""
+
+#: inc/customizer/social-options.php:184
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/social-options.php:204
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/social-options.php:224
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/social-options.php:241
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/social-options.php:258
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/social-options.php:275
+msgid "Google Business"
+msgstr ""
+
+#: inc/customizer/social-options.php:292
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/social-options.php:309
+msgid "VK"
+msgstr ""
+
+#: inc/customizer/social-options.php:326
+msgid "Yelp"
+msgstr ""
+
+#: inc/customizer/social-options.php:342
+msgid "Github"
+msgstr ""
+
+#: inc/customizer/social-options.php:358
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/social-options.php:374
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/typography-options.php:14
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/typography-options.php:67
+msgid "Body Typography"
+msgstr ""
+
+#: inc/customizer/typography-options.php:68
+#: inc/customizer/typography-options.php:108
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/typography-options.php:87
+msgid "Font Size for Body [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:107
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/customizer/typography-options.php:126
+msgid "Font Size for H1 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:150
+msgid "Font Size for H2 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:174
+msgid "Font Size for H3 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:198
+msgid "Font Size for H4 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:223
+msgid "Font Size for H5 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:247
+msgid "Font Size for H6 [PX]"
+msgstr ""
+
+#: inc/customizer/typography-options.php:271
+msgid "Meta Font Size"
+msgstr ""
+
+#: inc/customizer/typography-options.php:319
+msgid "Main Header Font Size"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:5
+msgid "WalkerPress: Double Category"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:6
+msgid "Double Category Layout Widget for Theme"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:183
+#: inc/widgets/walkerpress-double-category-widget.php:375
+#: inc/widgets/walkerpress-double-category-widget.php:486
+#: inc/widgets/walkerpress-double-category-widget.php:834
+#: inc/widgets/walkerpress-double-category-widget.php:933
+#: inc/widgets/walkerpress-single-category-widget.php:109
+#: inc/widgets/walkerpress-single-category-widget.php:206
+#: inc/widgets/walkerpress-single-category-widget.php:300
+#: inc/widgets/walkerpress-single-category-widget.php:498
+#: template-parts/content.php:76
+#: template-parts/partials/category-posts/category-post-layout.php:57
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+#: inc/widgets/walkerpress-three-category-widget.php:828
+msgid "Featurd: List View"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+#: inc/widgets/walkerpress-single-category-widget.php:538
+#: inc/widgets/walkerpress-three-category-widget.php:828
+msgid "List View"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+#: inc/widgets/walkerpress-three-category-widget.php:828
+msgid "Featured View"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+msgid "Featured View: Style 2"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+msgid "Featured View: Thumbnail"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1010
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "Grid View"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1023
+#: inc/widgets/walkerpress-double-category-widget.php:1040
+#: inc/widgets/walkerpress-single-category-widget.php:532
+#: inc/widgets/walkerpress-three-category-widget.php:841
+#: inc/widgets/walkerpress-three-category-widget.php:858
+#: inc/widgets/walkerpress-three-category-widget.php:875
+msgid "Category Label"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1031
+#: inc/widgets/walkerpress-double-category-widget.php:1047
+#: inc/widgets/walkerpress-single-category-widget.php:553
+#: inc/widgets/walkerpress-three-category-widget.php:849
+#: inc/widgets/walkerpress-three-category-widget.php:865
+#: inc/widgets/walkerpress-three-category-widget.php:880
+msgid "Select Categroy"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1035
+#: inc/widgets/walkerpress-double-category-widget.php:1051
+#: inc/widgets/walkerpress-single-category-widget.php:558
+#: inc/widgets/walkerpress-three-category-widget.php:853
+#: inc/widgets/walkerpress-three-category-widget.php:869
+#: inc/widgets/walkerpress-three-category-widget.php:884
+msgid "Post Per Page"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1058
+#: inc/widgets/walkerpress-latest-post-widget.php:97
+#: inc/widgets/walkerpress-popular-post-widget.php:102
+#: inc/widgets/walkerpress-single-category-widget.php:565
+#: inc/widgets/walkerpress-three-category-widget.php:891
+msgid "Show Published Dates"
+msgstr ""
+
+#: inc/widgets/walkerpress-double-category-widget.php:1064
+#: inc/widgets/walkerpress-latest-post-widget.php:102
+#: inc/widgets/walkerpress-popular-post-widget.php:107
+#: inc/widgets/walkerpress-single-category-widget.php:571
+#: inc/widgets/walkerpress-three-category-widget.php:897
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/widgets/walkerpress-heading-widgets.php:11
+msgid "WalkerPress: Custom Header"
+msgstr ""
+
+#: inc/widgets/walkerpress-heading-widgets.php:12
+msgid "Theme Custom Widgets for Sidebar"
+msgstr ""
+
+#: inc/widgets/walkerpress-heading-widgets.php:36
+msgid "Custom Heading"
+msgstr ""
+
+#: inc/widgets/walkerpress-heading-widgets.php:39
+#: inc/widgets/walkerpress-newsletter-widget.php:61
+#: inc/widgets/walkerpress-social-icons-widget.php:42
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:9
+msgid "WalkerPress: Latest Post"
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:10
+msgid "Latest post Widets for the theme."
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:82
+#: inc/widgets/walkerpress-popular-post-widget.php:87
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:88
+#: inc/widgets/walkerpress-popular-post-widget.php:93
+msgid "List Layout"
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:90
+#: inc/widgets/walkerpress-popular-post-widget.php:95
+msgid "Full Thumbnail"
+msgstr ""
+
+#: inc/widgets/walkerpress-latest-post-widget.php:107
+#: inc/widgets/walkerpress-popular-post-widget.php:112
+msgid "Post Per Pagess"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:6
+msgid "WalkerPress: Newsletter"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:7
+msgid "Newsletter Widget for Theme"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:51
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:65
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:69
+msgid "Contact Form 7: Form Shortcode:"
+msgstr ""
+
+#: inc/widgets/walkerpress-newsletter-widget.php:88
+msgid "Newsletter Width [%] ( Please keep the value between 10 to 100 )"
+msgstr ""
+
+#: inc/widgets/walkerpress-popular-post-widget.php:9
+msgid "WalkerPress: Popular Post"
+msgstr ""
+
+#: inc/widgets/walkerpress-popular-post-widget.php:10
+msgid "Popular post Widets for the theme."
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:5
+msgid "WalkerPress: Single Category"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:6
+msgid "Single Category Layout Widget for Theme"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "List View: 2 Column"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "List View: Full Featured Image"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "Featured Post:List View"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "Featured Post:Grid View"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "Grid View: Content Overlay"
+msgstr ""
+
+#: inc/widgets/walkerpress-single-category-widget.php:538
+msgid "Carousel post View"
+msgstr ""
+
+#: inc/widgets/walkerpress-social-icons-widget.php:6
+msgid "WalkerPress: Social Media"
+msgstr ""
+
+#: inc/widgets/walkerpress-social-icons-widget.php:7
+msgid "Social Media Widgets for Theme"
+msgstr ""
+
+#: inc/widgets/walkerpress-social-icons-widget.php:38
+msgid "Follow us"
+msgstr ""
+
+#: inc/widgets/walkerpress-three-category-widget.php:5
+msgid "WalkerPress: Three Category"
+msgstr ""
+
+#: inc/widgets/walkerpress-three-category-widget.php:6
+msgid "Three Category Layout Widget for Theme"
+msgstr ""
+
+#: inc/widgets/walkerpress-three-category-widget.php:828
+msgid "Featured: Slide View"
+msgstr ""
+
+#: inc/widgets/walkerpress-three-category-widget.php:873
+msgid "Category 3"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:17
+msgid "Footer #1"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:28
+msgid "Footer #2"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:39
+msgid "Footer #3"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:50
+msgid "Footer #4"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:61
+msgid "Home Content Block #1"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:63
+#: inc/widgets/walkerpress-widgets.php:85
+#: inc/widgets/walkerpress-widgets.php:107
+msgid "Add widgets here to be shown on home page section."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:72
+msgid "Home Sidebar #1"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:74
+msgid "Add widgets here to be shown on Home content Block #1 section."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:83
+msgid "Home Content Block #2"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:94
+msgid "Home Sidebar #2"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:96
+msgid "Add widgets here to be shown on Home content Block #2 section."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:105
+msgid "Home Content Block #3"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:116
+msgid "Home Sidebar #3"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:118
+msgid "Add widgets here to be shown on Home content Block #3 section."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:127
+msgid "Header Ads. Area"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:129
+msgid "Add widgets here to be shown on Advertisement in header"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:138
+msgid "Sidebar Panel"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:140
+msgid "Add widgets here to be content in sidebar panel"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:149
+msgid "Single Post: Top Area Ads."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:151
+msgid ""
+"Add widgets here to be shown on Advertisement in single post top section"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:160
+msgid "Single Post: Bottom Area Ads."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:162
+msgid ""
+"Add widgets here to be shown on Advertisement in single post bottom section"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:171
+msgid "Blog/Archive: Top Area Ads."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:173
+msgid ""
+"Add widgets here to be shown on Advertisement in blog/archive post top "
+"section"
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:182
+msgid "Blog/Archive: Bottom Area Ads."
+msgstr ""
+
+#: inc/widgets/walkerpress-widgets.php:184
+msgid ""
+"Add widgets here to be shown on Advertisement in blog/archive post bottom "
+"section"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:81
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:68
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-single.php:96 template-parts/content-single.php:104
+msgid "Previous:"
+msgstr ""
+
+#: template-parts/content-single.php:97 template-parts/content-single.php:105
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-single.php:118
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/content-single.php:183
+msgid "Learn More"
+msgstr ""
+
+#: template-parts/partials/banner-layout/banner-layout-1.php:132
+msgid "Popular Posts"
+msgstr ""
+
+#: template-parts/partials/missed-post/missed-post-layout-1.php:8
+msgid "You May Have Missed!"
+msgstr ""
+
+#: template-parts/partials/news-ticker/flashnews-layout-1.php:10
+msgid "Latest News"
+msgstr ""
+
+#: template-parts/partials/sub-header/subheader-layout-1.php:19
+msgid "404"
+msgstr ""

@@ -1,0 +1,54 @@
+/*/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.walker-core-dashboard {
+    padding: 30px;
+}
+h1.dashboard-heading {
+    margin-bottom: 30px;
+}
+.dashboard-box {
+    display: inline-block;
+    width: 99%;
+}
+.walker-dashboard-col-half {
+    width: 45%;
+    display: inline-block;
+    float: left;
+    background: #fff;
+    padding: 15px 2%;
+    box-shadow: 0 0 20px rgb(0 0 0 / 12%);
+    min-height: 340px;
+    margin-top: 30px;
+}
+ul.walker-core-widgets li p {
+    margin-top: -13px;
+}
+.walker-dashboard-col-half.right-part {
+    margin-left: 1%;
+}
+ul.walker-core-widgets li {
+    padding: 1px;
+    border-bottom: 1px solid #f7f7f7;
+}
+ul.walker-core-features li {
+    list-style: disc;
+    margin: 10px 0 10px 17px;
+    font-size: 16px;
+}
+.faqs h1 {
+    margin-top: 59px;
+}
+
+@media(max-width:767px){
+	.walker-core-dashboard {
+	    padding: 40px 20px;
+	}
+	.walker-dashboard-col-half {
+    	width: 94%;
+    }
+    .walker-dashboard-col-half.right-part {
+	    margin-left: 0;
+	}
+}*/

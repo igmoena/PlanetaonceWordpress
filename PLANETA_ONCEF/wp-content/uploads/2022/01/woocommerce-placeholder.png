@@ -1,0 +1,699 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Page not found &#8211; WALKERPRESS</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WALKERPRESS &raquo; Feed" href="https://demo.walkerwp.com/walkerpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WALKERPRESS &raquo; Comments Feed" href="https://demo.walkerwp.com/walkerpress/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.walkerwp.com\/walkerpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.walkerwp.com/walkerpress/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.7.3' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.7.3' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.5' media='all' />
+<link rel='stylesheet' id='walker-core-style-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/walker-core/public/css/walker-core-style.css?ver=1.1.6' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.2.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.2.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.2.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='walkerpress-style-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='walkerpress-font-awesome-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/css/all.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='walkerpress-swiper-bundle-css'  href='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/css/swiper-bundle.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='walkerpress-body-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic&#038;ver=5.9.1' media='all' />
+<link rel='stylesheet' id='walkerpress-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic&#038;ver=5.9.1' media='all' />
+<script src='https://demo.walkerwp.com/walkerpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/walker-core/public/js/walker-core-public.js?ver=1.1.6' id='walker-core-js'></script>
+<link rel="https://api.w.org/" href="https://demo.walkerwp.com/walkerpress/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.walkerwp.com/walkerpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.walkerwp.com/walkerpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+<meta name="generator" content="WooCommerce 6.2.0" />
+<style type="text/css">
+    :root{
+        --primary-color: #5306cf;
+        --secondary-color: #d51922;
+        --text-color:#404040;
+        --heading-color:#000000;
+        --light-color:#ffffff;
+    }
+
+    body{
+        font-family: 'Oxygen',sans-serif;
+        font-size: 14px;
+        color: var(--text-color);
+    }
+    
+    h1, h2, h3, h4, h5,h6,
+    .news-ticker-box span.focus-news-box a{
+        font-family: 'Roboto',sans-serif;
+    }
+    h1{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    h5{
+        font-size: 16px;
+    }
+    h6{
+        font-size: 14px;
+    }
+    .main-navigation ul li a{
+        font-family: 'Roboto',sans-serif;
+        text-transform: uppercase;
+    }
+            .walkerwp-wraper.inner-page-subheader{
+            background: transparent;
+            color: var(--text-color);
+            padding-top: 15px;
+            padding-bottom: 5px;
+        }
+        .single .walkerwp-wraper.inner-page-subheader.sub-header-2,
+    .page .walkerwp-wraper.inner-page-subheader.sub-header-2{
+        min-height: 400px;
+    }
+        .walkerwp-wraper.inner-page-subheader a,
+    .normal-subheader .walkerpress-breadcrumbs ul li a,
+    .normal-subheader .walkerpress-breadcrumbs ul li{
+        color: var(--text-color);
+        text-decoration: none;
+    }
+    .walkerwp-wraper.inner-page-subheader img{
+        opacity:0.60;
+    }
+    .walkerwp-wraper.inner-page-subheader a:hover{
+        color: var(--secondary-color);
+    }
+    .walkerwp-wraper.main-header{
+        background:#001e72;
+    }
+    .walkerwp-wraper.main-header img.header-overlay-image{
+        opacity:0.51 ;
+    }
+    .site-branding img.custom-logo{
+        max-height: 48px;
+        width: auto;
+        max-width: 100%;
+        height: 100%;
+    }
+    .site-branding h1.site-title{
+        font-size: 48px;
+    }
+    .site-branding h1.site-title a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+    .site-branding .site-description,
+    .site-branding,
+    header.header-layout-3 span.walkerpress-current-date {
+        color: #ffffff;
+    }
+    a.walkerpress-post-date, .entry-meta a, .entry-meta, .news-ticker-box span.focus-news-box a.walkerpress-post-date,
+    .single  span.category a, .single .article-inner span.category a{
+        color: #b5b5b5;
+        font-size: 12px;
+        font-weight: initial;
+    }
+    span.estimate-time, span.estimate-reading-time{
+        font-size: 12px;
+    }
+    span.category a{
+        color: #5306cf;
+        text-transform: initial;
+        font-weight: normal;
+    }
+    footer.site-footer{
+        background: #5306cf;
+        color: #ffffff;
+    }
+     footer.site-footer .wp-block-latest-posts__post-author, 
+     footer.site-footer .wp-block-latest-posts__post-date,
+     .footer-wiget-list .sidebar-widget-block{
+        color: #ffffff;
+    }
+   .site-footer .walkerpress-footer-column .wp-block-latest-posts a, 
+   .site-footer .walkerpress-footer-column .widget ul li a, 
+   .site-footer .wp-block-tag-cloud a, 
+   .site-footer  .sidebar-block section.widget ul li a,
+   .footer-wiget-list .sidebar-widget-block a{
+        color:#ffffff;
+    }
+    .site-footer .site-info a,
+     .site-footer .site-info{
+        color: #ffffff;
+    }
+    .site-footer .site-info a:hover{
+        color: #d51922;
+    }
+    .site-footer .walkerpress-footer-column .wp-block-latest-posts a:hover, 
+   .site-footer .walkerpress-footer-column .widget ul li a:hover, 
+   .site-footer .wp-block-tag-cloud a:hover, 
+   .site-footer .site-info a:hover,
+   .site-footer  .sidebar-block section.widget ul li a:hover,
+   .footer-wiget-list .sidebar-widget-block a:hover{
+        color:#d51922;
+    }
+    .footer-overlay-image{
+        opacity:0;
+    }
+    .footer-copyright-wraper:before{
+        background: #0d1741;
+        opacity: 0;
+    }
+    .walkerwp-wraper.footer-copyright-wraper{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .banner-layout-1 .walkerwp-grid-3,
+    .featured-post-box,
+    .category-post-wraper .category-post-box,
+    .category-post-wraper .category-post-2 .category-post-content,
+    .frontpage-content-block .walkerpress-widget-content,
+    .sidebar-widget-block,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.list-layout article,
+    .sidebar-block section.widget,
+    .missed-post-box,
+    .walkerwp-wraper.banner-layout ul.tabs li.active,
+    .single article,
+    .page article,
+    .single .comments-area,
+    .related-posts,
+    ul.tabs li.active:after,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.grid-layout article,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.full-layout article,
+    .ticker-layout-2 .news-ticker-box span.focus-news-box,
+    .ticker-arrows,
+    .news-ticker-box,
+    .wc-author-box,
+    .frontpage-sidebar-block .walkerpress-widget-content,
+    main#primary section.no-results.not-found,
+    .search.search-results main#primary article,
+    section.error-404.not-found {
+        background: #ffffff;
+        
+    }
+    .featured-post-box,
+    .category-post-wraper .category-post-box,
+    .category-post-wraper .category-post-2 .category-post-content,
+    .frontpage-content-block .walkerpress-widget-content,
+    .sidebar-widget-block,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.list-layout article,
+    .sidebar-block section.widget,
+    .missed-post-box,
+    .single article,
+    .page article,
+    .single .comments-area,
+    .related-posts,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.grid-layout article,
+    .walkerwp-wraper.inner-wraper main#primary .content-layout.full-layout article,
+    .ticker-layout-2 .news-ticker-box span.focus-news-box,
+    .news-ticker-box,
+    .wc-author-box,
+    .frontpage-sidebar-block .walkerpress-widget-content,
+    main#primary section.no-results.not-found,
+    .search.search-results main#primary article,
+    section.error-404.not-found {
+        border: 0px solid #ffffff;
+    }
+    .sidebar-panel .sidebar-widget-block {
+        border: 0;
+    }
+    ul.walkerpress-social.icons-custom-color.normal-style li a{
+        color: #ffffff;
+    }
+    ul.walkerpress-social.icons-custom-color.normal-style li a:hover{
+        color: #ea1c0e;
+    }
+    ul.walkerpress-social.icons-custom-color.boxed-style li a{
+        background: #222222;
+        color: #ffffff;
+    }
+    ul.walkerpress-social.icons-custom-color.boxed-style li a:hover{
+        background: #ffffff;
+        color: #ea1c0e;
+    }
+    .walkerwp-container{
+        max-width: 1280px;
+    }
+    header#masthead.header-layout-4 .walkerwp-container,
+    .walkerwp-wraper.main-header{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .walkerwp-wraper.navigation{
+        background: #000000;
+    }
+    
+    .main-navigation ul li a,
+    .main-navigation ul ul li a:hover, .main-navigation ul ul li a:focus{
+         color: #ffffff;
+          background: #000000;
+    }
+    .main-navigation ul li:hover a,
+    .main-navigation ul li.current-menu-item a{
+        background: #d51922;
+        color: #ffffff;
+    }
+    .main-navigation ul ul li a:hover, 
+    .main-navigation ul ul li a:focus,{
+         background: #000000;
+         color: #ffffff;
+    }
+    .sidebar-slide-button .slide-button,
+    button.global-search-icon{
+        color: #ffffff;
+    }
+    .sidebar-slide-button .slide-button:hover,
+    button.global-search-icon:hover{
+        color: #d51922;
+    }
+    .walkerwp-wraper.top-header{
+        background: #000000;
+        color: #ffffff;
+    }
+    .sidebar-block,
+    .frontpage-sidebar-block{
+        width: 28%;
+    }
+    .walkerwp-wraper.inner-wraper main#primary,
+    .frontpage-content-block{
+        width: 72%;
+    }
+    .footer-widgets-wraper{
+        padding-bottom: 50px;
+        padding-top: 70px;
+    }
+    .walkerpress-footer-column:before{
+        background: #000000;
+        opacity: 0.2 ;
+    }
+    a.walkerpress-primary-button,
+    .walkerpress-primary-button
+    a.walkerpress-secondary-button,
+    .walkerpress-secondary-button{
+        border-radius: 3px;
+        text-transform: initial;
+        font-size: 14px;
+    }
+    @media(max-width:1024px){
+        .sidebar-block,
+        .walkerwp-wraper.inner-wraper main#primary,
+        .frontpage-sidebar-block,
+        .frontpage-content-block {
+            width:100%;
+        }
+    }
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">
+					.site-title a,
+			.site-description {
+				color: #ffffff;
+			}
+				</style>
+		</head>
+
+<body class="error404 theme-walkerpress woocommerce-no-js hfeed">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<div id="page" class="site">
+			<div class="walkerwp-pb-container">
+			<div class="walkerwp-progress-bar"></div>
+		</div>
+		<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+
+<header id="masthead" class="site-header  header-layout-1">
+			
+		<div class="walkerwp-wraper top-header no-gap">
+			<div class="walkerwp-container">
+							<span class="walkerpress-current-date"><i class="far fa-clock"></i> 
+				Saturday, February 26, 2022			</span>
+		<ul class="walkerpress-social icons-default-color boxed-style">
+			<li>
+			<a class="facebook" href="#" target="_blank">
+				<i class="fab fa-facebook-f"></i>
+			</a>
+		</li>
+			<li>
+			<a class="twitter" href="#" target="_blank">
+				<i class="fab fa-twitter"></i>
+			</a>
+		</li>
+			<li>
+			<a class="youtube" href="#" target="_blank">
+				<i class="fab fa-youtube"></i>
+			</a>
+		</li>
+			<li>
+			<a class="instagram" href="#" target="_blank">
+				<i class="fab fa-instagram"></i>
+			</a>
+		</li>
+			<li>
+			<a class="linkedin" href="#" target="_blank">
+				<i class="fab fa-linkedin-in"></i>
+			</a>
+		</li>
+			<li>
+			<a class="vk" href="#" target="_blank">
+				<i class="fab fa-vk"></i>
+			</a>
+		</li>
+	</ul>			</div>
+		</div>
+		<div class="walkerwp-wraper main-header no-gap">
+								<img class="header-overlay-image" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2022/01/header_bg.jpg" />
+							<div class="walkerwp-container">
+						<div class="site-branding header-ads-exist">
+							<h1 class="site-title"><a href="https://demo.walkerwp.com/walkerpress/" rel="home">WALKERPRESS</a></h1>
+				
+							<p class="site-description">Just another My Blog Sites site</p>
+					</div><!-- .site-branding -->
+				<div class="header-banner ads-below-branding">
+											<a href="#" target="_blank" ><img src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2022/01/header_ads.jpg" /></a>
+										</div>
+							
+			</div>
+		</div>
+				<div class="walkerwp-wraper navigation no-gap ">
+			<div class="walkerwp-container">
+
+				<div class="walkerpress-nav">
+												<nav id="site-navigation" class="main-navigation">
+				<button type="button" class="menu-toggle">
+					<span></span>
+					<span></span>
+					<span></span>
+				</button>
+				<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-84"><a href="https://demo.walkerwp.com/walkerpress/">Home</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a href="https://demo.walkerwp.com/walkerpress/category/education/">Education</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="https://demo.walkerwp.com/walkerpress/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87"><a href="https://demo.walkerwp.com/walkerpress/category/politics/">Politics</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://demo.walkerwp.com/walkerpress/category/sports/">Sports</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://demo.walkerwp.com/walkerpress/category/technology/">Technology</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="https://demo.walkerwp.com/walkerpress/category/travel/">Travel</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91"><a href="https://demo.walkerwp.com/walkerpress/pages/">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://demo.walkerwp.com/walkerpress/right-sidebar-page/">Right Sidebar Page</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://demo.walkerwp.com/walkerpress/full-width-page/">Full Width Page</a></li>
+	<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://demo.walkerwp.com/walkerpress/left-sidebar-page/">Left Sidebar Page</a></li>
+</ul>
+</li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://demo.walkerwp.com/walkerpress/contact-page/">Contact  Us</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+					</div>
+				
+		<button class="global-search-icon">
+			<i class="fas fa-search"></i>
+		</button>
+		<span class="header-global-search-form">
+			<button class="global-search-close"><i class="fas fa-times"></i></button>
+			<form action="https://demo.walkerwp.com/walkerpress/" method="get" class="form-inline">
+    <fieldset>
+		<div class="input-group">
+			<input type="text" name="s" id="search" placeholder="Search" value="" class="form-control" />
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</span>
+		</div>
+    </fieldset>
+</form>
+		</span>
+				</div>
+		</div>
+	</header><!-- #masthead -->		<div class="walkerwp-wraper inner-page-subheader normal-subheader no-gap">
+			<div class="walkerwp-container">
+				<div class="walkerwp-grid-12">
+												<div class="walkerpress-breadcrumbs"><nav role="navigation" aria-label="Breadcrumbs" class="walkerpress breadcrumbs" itemprop="breadcrumb"><h2 class="trail-browse"></h2><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="https://demo.walkerwp.com/walkerpress/" rel="home" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="item"><span itemprop="name">404 Not Found</span></span><meta itemprop="position" content="2" /></li></ul></nav></div>
+											
+
+						
+				</div>
+			</div>
+		</div>
+		
+	<div class="walkerwp-wraper inner-wraper">
+	<div class="walkerwp-container">
+		<main id="primary" class="site-main walkerwp-grid-12">
+
+		<section class="error-404 not-found">
+			<header class="page-header">
+				<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+			</header><!-- .page-header -->
+
+			<div class="page-content">
+				<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form action="https://demo.walkerwp.com/walkerpress/" method="get" class="form-inline">
+    <fieldset>
+		<div class="input-group">
+			<input type="text" name="s" id="search" placeholder="Search" value="" class="form-control" />
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</span>
+		</div>
+    </fieldset>
+</form>
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://demo.walkerwp.com/walkerpress/2021/06/13/do-you-really-think-graphic-arts-supply-houses/">Do you really think graphic arts supply houses</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkerpress/2021/06/13/in-particular-the-garbled-words-of-lorem-ipsum-bear/">In particular, the garbled words of lorem ipsum bear</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkerpress/2021/06/13/the-passage-experienced-a-surge-in-popularity-during/">The passage experienced a surge in popularity during</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkerpress/2021/06/13/placeholder-text-will-be-too-distracting/">Placeholder text will be too distracting.</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkerpress/2021/06/13/to-some-designing-a-website-around-placeholder/">To some, designing a website around placeholder</a>
+									</li>
+					</ul>
+
+		</div>
+					<div class="widget widget_categories">
+						<h2 class="widget-title">Most Used Categories</h2>
+						<ul>
+								<li class="cat-item cat-item-18"><a href="https://demo.walkerwp.com/walkerpress/category/blog/">Blog</a> (5)
+</li>
+	<li class="cat-item cat-item-20"><a href="https://demo.walkerwp.com/walkerpress/category/education/">Education</a> (5)
+</li>
+	<li class="cat-item cat-item-22"><a href="https://demo.walkerwp.com/walkerpress/category/technology/">Technology</a> (5)
+</li>
+	<li class="cat-item cat-item-17"><a href="https://demo.walkerwp.com/walkerpress/category/travel/">Travel</a> (4)
+</li>
+	<li class="cat-item cat-item-24"><a href="https://demo.walkerwp.com/walkerpress/category/featured/">Featured</a> (4)
+</li>
+	<li class="cat-item cat-item-16"><a href="https://demo.walkerwp.com/walkerpress/category/entertainment/">Entertainment</a> (3)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://demo.walkerwp.com/walkerpress/category/focus/">Focus</a> (3)
+</li>
+	<li class="cat-item cat-item-19"><a href="https://demo.walkerwp.com/walkerpress/category/politics/">Politics</a> (2)
+</li>
+	<li class="cat-item cat-item-21"><a href="https://demo.walkerwp.com/walkerpress/category/sports/">Sports</a> (2)
+</li>
+						</ul>
+					</div><!-- .widget -->
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://demo.walkerwp.com/walkerpress/2021/06/'> June 2021 </option>
+
+		</select>
+
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+			</div><!-- .page-content -->
+		</section><!-- .error-404 -->
+
+	</main><!-- #main -->
+	</div>
+</div>
+	<footer id="colophon" class="site-footer layout-one">
+		
+<div class="walkerwp-wraper footer-widgets-wraper">
+	<div class="walkerwp-container footer-wiget-list">
+				    <div class="walkerpress-footer-column">
+		        <section id="block-9" class="widget widget_block">
+<h3>About Us</h3>
+</section><section id="block-10" class="widget widget_block widget_text">
+<p><em>Lorem ipsum</em>, or <em>lipsum</em> as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+</section>		    </div>
+						    <div class="walkerpress-footer-column">
+		        <section id="media_gallery-2" class="widget widget_media_gallery"><h3 class="widget-title">Image Gallery</h3><div id='gallery-1' class='gallery galleryid-0 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/music-guitar-string-concert-band-instrument-1021001-pxhere.com_.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/music-guitar-string-concert-band-instrument-1021001-pxhere.com_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/music-guitar-string-concert-band-instrument-1021001-pxhere.com_-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/music-guitar-string-concert-band-instrument-1021001-pxhere.com_-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/music-guitar-string-concert-band-instrument-1021001-pxhere.com_-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/computer-hand-man-person-people-girl-797736-pxhere.com_.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/computer-hand-man-person-people-girl-797736-pxhere.com_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/computer-hand-man-person-people-girl-797736-pxhere.com_-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/computer-hand-man-person-people-girl-797736-pxhere.com_-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/computer-hand-man-person-people-girl-797736-pxhere.com_-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/baby-background-beautiful-beauty-blue-boy-1605129-pxhere.com_.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/baby-background-beautiful-beauty-blue-boy-1605129-pxhere.com_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/baby-background-beautiful-beauty-blue-boy-1605129-pxhere.com_-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/baby-background-beautiful-beauty-blue-boy-1605129-pxhere.com_-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/baby-background-beautiful-beauty-blue-boy-1605129-pxhere.com_-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/beach-sea-sand-girl-woman-vacation-1084638-pxhere.com_.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/beach-sea-sand-girl-woman-vacation-1084638-pxhere.com_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/beach-sea-sand-girl-woman-vacation-1084638-pxhere.com_-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/beach-sea-sand-girl-woman-vacation-1084638-pxhere.com_-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/beach-sea-sand-girl-woman-vacation-1084638-pxhere.com_-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/hand-open-person-people-night-boy-790076-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/hand-open-person-people-night-boy-790076-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/hand-open-person-people-night-boy-790076-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/hand-open-person-people-night-boy-790076-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/hand-open-person-people-night-boy-790076-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure>
+		</div>
+</section><section id="block-12" class="widget widget_block widget_tag_cloud"><p class="wp-block-tag-cloud">Your site doesn&#8217;t have any tags, so there&#8217;s nothing to display here at the moment.</p></section>		    </div>
+						    <div class="walkerpress-footer-column">
+		        <section id="block-11" class="widget widget_block">
+<h3>Latest Posts</h3>
+</section><section id="block-8" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list has-dates wp-block-latest-posts"><li><div class="wp-block-latest-posts__featured-image alignleft"><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/do-you-really-think-graphic-arts-supply-houses/"><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/photography-tea-teapot-ceramic-black-tea-pot-27281-pxhere.com-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" style="max-width:100px;" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/photography-tea-teapot-ceramic-black-tea-pot-27281-pxhere.com-1-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/photography-tea-teapot-ceramic-black-tea-pot-27281-pxhere.com-1-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/photography-tea-teapot-ceramic-black-tea-pot-27281-pxhere.com-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></div><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/do-you-really-think-graphic-arts-supply-houses/">Do you really think graphic arts supply houses</a><time datetime="2021-06-13T16:18:54+00:00" class="wp-block-latest-posts__post-date">June 13, 2021</time></li>
+<li><div class="wp-block-latest-posts__featured-image alignleft"><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/in-particular-the-garbled-words-of-lorem-ipsum-bear/"><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/smartphone-mobile-hand-working-music-technology-1171302-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" style="max-width:100px;" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/smartphone-mobile-hand-working-music-technology-1171302-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/smartphone-mobile-hand-working-music-technology-1171302-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/smartphone-mobile-hand-working-music-technology-1171302-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></div><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/in-particular-the-garbled-words-of-lorem-ipsum-bear/">In particular, the garbled words of lorem ipsum bear</a><time datetime="2021-06-13T16:17:50+00:00" class="wp-block-latest-posts__post-date">June 13, 2021</time></li>
+<li><div class="wp-block-latest-posts__featured-image alignleft"><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/the-passage-experienced-a-surge-in-popularity-during/"><img width="150" height="150" src="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/iphone-smartphone-mobile-hand-screen-man-922625-pxhere.com-1-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" style="max-width:100px;" srcset="https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/iphone-smartphone-mobile-hand-screen-man-922625-pxhere.com-1-1-150x150.jpg 150w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/iphone-smartphone-mobile-hand-screen-man-922625-pxhere.com-1-1-300x300.jpg 300w, https://demo.walkerwp.com/walkerpress/wp-content/uploads/sites/22/2021/06/iphone-smartphone-mobile-hand-screen-man-922625-pxhere.com-1-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></div><a href="https://demo.walkerwp.com/walkerpress/2021/06/13/the-passage-experienced-a-surge-in-popularity-during/">The passage experienced a surge in popularity during</a><time datetime="2021-06-13T16:15:51+00:00" class="wp-block-latest-posts__post-date">June 13, 2021</time></li>
+</ul></section>		    </div>
+						    <div class="walkerpress-footer-column">
+		        <section id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Quick Links</h3><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-122"><a href="https://demo.walkerwp.com/walkerpress/category/blog/">Blog</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"><a href="https://demo.walkerwp.com/walkerpress/category/education/">Education</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124"><a href="https://demo.walkerwp.com/walkerpress/category/technology/">Technology</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125"><a href="https://demo.walkerwp.com/walkerpress/category/travel/">Travel</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"><a href="https://demo.walkerwp.com/walkerpress/category/featured/">Featured</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"><a href="https://demo.walkerwp.com/walkerpress/category/entertainment/">Entertainment</a></li>
+</ul></div></section>		    </div>
+			</div>
+</div>
+				<div class="walkerwp-wraper footer-copyright-wraper">
+		
+		<div class="walkerwp-container credit-container text-left">
+							<div class="footer-social-media walkerwp-grid-12">
+				<ul class="walkerpress-social icons-default-color boxed-style">
+			<li>
+			<a class="facebook" href="#" target="_blank">
+				<i class="fab fa-facebook-f"></i>
+			</a>
+		</li>
+			<li>
+			<a class="twitter" href="#" target="_blank">
+				<i class="fab fa-twitter"></i>
+			</a>
+		</li>
+			<li>
+			<a class="youtube" href="#" target="_blank">
+				<i class="fab fa-youtube"></i>
+			</a>
+		</li>
+			<li>
+			<a class="instagram" href="#" target="_blank">
+				<i class="fab fa-instagram"></i>
+			</a>
+		</li>
+			<li>
+			<a class="linkedin" href="#" target="_blank">
+				<i class="fab fa-linkedin-in"></i>
+			</a>
+		</li>
+			<li>
+			<a class="vk" href="#" target="_blank">
+				<i class="fab fa-vk"></i>
+			</a>
+		</li>
+	</ul>				</div>
+							<div class="site-info walkerwp-grid-12">
+					<a href="https://wordpress.org/">
+						Proudly powered by WordPress					</a>
+					<span class="sep"> | </span>
+						Theme: WalkerPress by <a href="http://walkerwp.com/">WalkerWP</a>.
+				</div><!-- .site-info -->
+									
+			
+			
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+			<a href="#" class="walkerpress-top"><i class="fas fa-arrow-up"></i></a>
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='https://demo.walkerwp.com/walkerpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/demo.walkerwp.com\/walkerpress\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.5' id='contact-form-7-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.2.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/walkerpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkerpress\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/demo.walkerwp.com\/walkerpress\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.2.0' id='wc-add-to-cart-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.2.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/walkerpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkerpress\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.2.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/walkerpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkerpress\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f072ec43d5ddff77556c9e9d5d076134","fragment_name":"wc_fragments_f072ec43d5ddff77556c9e9d5d076134","request_timeout":"5000"};
+</script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.0' id='wc-cart-fragments-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/js/all.js?ver=1.0.0' id='walkerpress-font-awesome-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/js/navigation.js?ver=1.0.0' id='walkerpress-navigation-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/js/swiper-bundle.js?ver=6.5.9' id='walkerpress-swiper-bundle-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/js/jquery.marquee.js?ver=5.9.1' id='walkerpress-marquee-js'></script>
+<script src='https://demo.walkerwp.com/walkerpress/wp-content/themes/walkerpress/js/walkerpress-scripts.js?ver=5.9.1' id='walkerpress-scripts-js'></script>
+
+</body>
+</html>

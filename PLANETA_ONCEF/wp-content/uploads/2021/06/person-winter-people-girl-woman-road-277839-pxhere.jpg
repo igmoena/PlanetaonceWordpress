@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Page not found &#8211; WalkerMag</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WalkerMag &raquo; Feed" href="https://demo.walkerwp.com/walkermag/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WalkerMag &raquo; Comments Feed" href="https://demo.walkerwp.com/walkermag/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/demo.walkerwp.com\/walkermag\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.walkerwp.com/walkermag/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='walker-core-style-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/walker-core/public/css/walker-core-style.css?ver=1.1.3' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.6.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.6.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.6.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='walkermag-style-css'  href='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/css/font-awesome.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='swiper-bundle-css'  href='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/css/swiper-bundle.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='walkermag-body-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic&#038;ver=5.8.3' media='all' />
+<link rel='stylesheet' id='walkermag-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C400italic%2C700%2C700italic&#038;ver=5.8.3' media='all' />
+<script src='https://demo.walkerwp.com/walkermag/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/walker-core/public/js/walker-core-public.js?ver=1.1.3' id='walker-core-js'></script>
+<link rel="https://api.w.org/" href="https://demo.walkerwp.com/walkermag/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.walkerwp.com/walkermag/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.walkerwp.com/walkermag/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.3" />
+<meta name="generator" content="WooCommerce 5.6.0" />
+<style type="text/css">
+    :root{
+        --primary-color: #c70315;
+        --secondary-color: #3f208e;
+        --text-color:#404040;
+        --dark-color:#000000;
+        --light-color:#ffffff;
+        --link-color:#c70315;
+        --link-hover-color:#3f208e;
+    }
+
+    body{
+        font-family: 'Roboto',sans-serif;
+        font-size: 16px;
+        color: var(--text-color);
+    }
+    
+    h1, h2, h3, h4, h5,h6{
+        font-family: 'Roboto',sans-serif;
+    }
+    h1{
+        font-size: 48px;
+    }
+    h2{
+        font-size: 36px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    h5{
+        font-size: 16px;
+    }
+    h6{
+        font-size: 14px;
+    }
+    .walkermag-footer-widgets{
+        background: #000000;
+        color: #ffffff;
+
+    }
+    .walkermag-footer-widgets a,
+    .walkermag-footer-widgets section.widget_recent_entries ul li a,
+    .walkermag-footer-widget ul.walkermag-social li a{
+        color: #ffffff;
+    }
+    .walkermag-footer-widgets a:hover,
+    .walkermag-footer-widgets section.widget_recent_entries ul li a:hover,
+    .walkermag-footer-widget ul.walkermag-social li a:hover{
+        color: #c70315;
+    }
+    .copyright-wraper{
+        background: #000000;
+        color:#ffffff;
+    }
+    .copyright-wraper a{
+        color:#ffffff;
+    }
+    .walkermag-footer-widget .widget-title:before{
+        background: #ffffff    }
+    .copyright-wraper a:hover{
+        color:#c70315;
+    }
+    .walkermag-footer-widget .widget-title:after {
+        background: #c70315;
+    }
+    .active-sticky{
+        position: fixed;
+    }
+        .site-header .branding-wraper{
+        background: #ffffff;
+        color: #000000;
+    }
+    .site-header .branding-wraper:before {
+        background: #ffffff;
+        opacity: 1;
+    }
+    .header-layout-2 ul.walkermag-social li a{
+        color: #000000;
+    }
+    .site-branding .site-title a{
+        color: ;
+    }
+    .site-branding .site-title a:hover{
+        color: #3f208e;
+    }
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	</head>
+
+<body class="error404 theme-walkermag woocommerce-no-js hfeed">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+	<header id="masthead" class="site-header">
+		<div class="walkermag-wraper topbar-wraper no-gap">
+			<div class="walkermag-container">
+				<div class="topbar-left">
+							<span class="walkermag-current-date"><i class="fa fa-clock-o" aria-hidden="true"></i> Thursday, January 13</span>
+						
+				</div>
+									<div class="topbar-right">
+					<ul class="walkermag-social">
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-facebook" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-twitter" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-youtube-play" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-instagram" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-linkedin" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-google" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-pinterest-p" aria-hidden="true"></i>
+			</a>
+		</li>
+			<li>
+			<a href="#" target="_blank">
+				<i class="fa fa-vk" aria-hidden="true"></i></i>
+			</a>
+		</li>
+	</ul>				</div>
+								
+			</div>
+		</div>
+				<div class="walkermag-wraper branding-wraper">
+			<div class="walkermag-container">
+						<div class="site-branding">
+			<h1 class="site-title"><a href="https://demo.walkerwp.com/walkermag" rel="home">WalkerMag</a></h1>					<p class="site-description">Just another My Blog Sites site</p>
+							</div><!-- .site-branding -->
+					<div class="header-banner">
+												<a href="#" target="_blank" ><img src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/header-ads-banner.png" /></a>
+										</div>
+			</div>
+		</div>
+			<div class="walkermag-wraper nav-wraper no-gap">
+				<div class="walkermag-container">
+							<nav id="site-navigation" class="main-navigation">
+				<button type="button" class="menu-toggle">
+					<span></span>
+					<span></span>
+					<span></span>
+				</button>
+				<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="https://demo.walkerwp.com/walkermag/">Home</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-87"><a href="https://demo.walkerwp.com/walkermag/category/education/">Education</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://demo.walkerwp.com/walkermag/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://demo.walkerwp.com/walkermag/category/politics/">Politics</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="https://demo.walkerwp.com/walkermag/category/sports/">Sports</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="https://demo.walkerwp.com/walkermag/category/technology/">Technology</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="https://demo.walkerwp.com/walkermag/category/travel/">Travel</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-107"><a href="https://demo.walkerwp.com/walkermag/pages/">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://demo.walkerwp.com/walkermag/right-sidebar-page/">Right Sidebar Page</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://demo.walkerwp.com/walkermag/full-width-page/">Full Width Page</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://demo.walkerwp.com/walkermag/left-sidebar-page/">Left Sidebar Page</a></li>
+</ul>
+</li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://demo.walkerwp.com/walkermag/contact-page/">Contact  Us</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+				<span class="header-icon-search">
+				<button class="search-toggle"><i class="fa fa-search" aria-hidden="true"></i></button>
+				<!-- The Modal -->
+				<div id="searchModel" class="search-modal modal">
+					<div class="modal-content">
+						<div class="modal-body">
+							<button  class="modal-close">&times;</button>
+							<p><form action="https://demo.walkerwp.com/walkermag/" method="get" class="form-inline">
+    <fieldset>
+		<div class="input-group">
+			<input type="text" name="s" id="search" placeholder="Search" value="" class="form-control" />
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</span>
+		</div>
+    </fieldset>
+</form></p>
+						</div>
+					</div>
+				</div>
+			</span>
+
+		
+				</div>
+			</div>
+	</header><!-- #masthead --><div class="walkermag-wraper">
+	<div class="walkermag-container">
+		<main id="primary" class="site-main walkermag-grid-12">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+						<form action="https://demo.walkerwp.com/walkermag/" method="get" class="form-inline">
+    <fieldset>
+		<div class="input-group">
+			<input type="text" name="s" id="search" placeholder="Search" value="" class="form-control" />
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
+			</span>
+		</div>
+    </fieldset>
+</form>
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/do-you-really-think-graphic-arts-supply-houses/">Do you really think graphic arts supply houses</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/in-particular-the-garbled-words-of-lorem-ipsum-bear/">In particular, the garbled words of lorem ipsum bear</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/the-passage-experienced-a-surge-in-popularity-during/">The passage experienced a surge in popularity during</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/placeholder-text-will-be-too-distracting/">Placeholder text will be too distracting.</a>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/to-some-designing-a-website-around-placeholder/">To some, designing a website around placeholder</a>
+									</li>
+					</ul>
+
+		</div>
+						<div class="widget widget_categories">
+							<h2 class="widget-title">Most Used Categories</h2>
+							<ul>
+									<li class="cat-item cat-item-16"><a href="https://demo.walkerwp.com/walkermag/category/blog/">Blog</a> (5)
+</li>
+	<li class="cat-item cat-item-19"><a href="https://demo.walkerwp.com/walkermag/category/technology/">Technology</a> (5)
+</li>
+	<li class="cat-item cat-item-24"><a href="https://demo.walkerwp.com/walkermag/category/education/">Education</a> (5)
+</li>
+	<li class="cat-item cat-item-17"><a href="https://demo.walkerwp.com/walkermag/category/featured/">Featured</a> (4)
+</li>
+	<li class="cat-item cat-item-20"><a href="https://demo.walkerwp.com/walkermag/category/travel/">Travel</a> (4)
+</li>
+	<li class="cat-item cat-item-18"><a href="https://demo.walkerwp.com/walkermag/category/focus/">Focus</a> (3)
+</li>
+	<li class="cat-item cat-item-21"><a href="https://demo.walkerwp.com/walkermag/category/entertainment/">Entertainment</a> (3)
+</li>
+	<li class="cat-item cat-item-22"><a href="https://demo.walkerwp.com/walkermag/category/politics/">Politics</a> (2)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://demo.walkerwp.com/walkermag/category/sports/">Sports</a> (2)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://demo.walkerwp.com/walkermag/category/uncategorized/">Uncategorized</a> (1)
+</li>
+							</ul>
+						</div><!-- .widget -->
+
+						<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://demo.walkerwp.com/walkermag/2021/06/'> June 2021 </option>
+
+		</select>
+
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div>
+</div>
+<footer id="colophon" class="site-footer">
+		<div class="walkermag-wraper walkermag-footer-widgets">
+		<div class="walkermag-container">
+			<div class="walkermag-grid-12 walkermag-footer-widget">
+				<div class="walker-container">
+					<div id="secondary" class="widget-area walkermag-bottom walkermag-grid-4" role="complementary" >
+						<section id="text-2" class="widget widget_text"><h3 class="widget-title">About Us</h3>			<div class="textwidget"><p><em>Lorem ipsum</em>, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown</p>
+<p>Address: Random address, your country<br />
+Email: info@yourcompany.com<br />
+Phone: 012 -345-6789</p>
+</div>
+		</section>					</div>
+
+					<div id="secondary" class="widget-area walkermag-bottom walkermag-grid-4" role="complementary" >
+						<section id="media_gallery-2" class="widget widget_media_gallery"><h3 class="widget-title">Image Gallery</h3><div id='gallery-1' class='gallery galleryid-0 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/adult-asian-business-businessman-businesswoman-caucasian-1629589-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/adult-asian-business-businessman-businesswoman-caucasian-1629589-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/adult-asian-business-businessman-businesswoman-caucasian-1629589-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/adult-asian-business-businessman-businesswoman-caucasian-1629589-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/adult-asian-business-businessman-businesswoman-caucasian-1629589-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/african-african-american-afro-american-black-black-african-american-1444163-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/african-african-american-afro-american-black-black-african-american-1444163-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/african-african-american-afro-american-black-black-african-american-1444163-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/african-african-american-afro-american-black-black-african-american-1444163-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/african-african-american-afro-american-black-black-african-american-1444163-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/computer-mobile-work-person-light-woman-717948-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/computer-mobile-work-person-light-woman-717948-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/computer-mobile-work-person-light-woman-717948-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/computer-mobile-work-person-light-woman-717948-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/computer-mobile-work-person-light-woman-717948-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon portrait'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/creative-light-technology-white-camera-photography-797696-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/creative-light-technology-white-camera-photography-797696-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/creative-light-technology-white-camera-photography-797696-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/creative-light-technology-white-camera-photography-797696-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/creative-light-technology-white-camera-photography-797696-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/hand-open-person-people-night-boy-790076-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/hand-open-person-people-night-boy-790076-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/hand-open-person-people-night-boy-790076-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/hand-open-person-people-night-boy-790076-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/hand-open-person-people-night-boy-790076-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere.jpg'><img width="150" height="150" src="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-150x150.jpg 150w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-300x300.jpg 300w, https://demo.walkerwp.com/walkermag/wp-content/uploads/sites/6/2021/06/man-landscape-nature-rock-horizon-wilderness-728032-pxhere-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure>
+		</div>
+</section>					</div>
+					<div id="secondary" class="widget-area walkermag-bottom walkermag-grid-4" role="complementary" >
+						
+		<section id="recent-posts-3" class="widget widget_recent_entries">
+		<h3 class="widget-title">Recent Blogs</h3>
+		<ul>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/do-you-really-think-graphic-arts-supply-houses/">Do you really think graphic arts supply houses</a>
+											<span class="post-date">June 13, 2021</span>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/in-particular-the-garbled-words-of-lorem-ipsum-bear/">In particular, the garbled words of lorem ipsum bear</a>
+											<span class="post-date">June 13, 2021</span>
+									</li>
+											<li>
+					<a href="https://demo.walkerwp.com/walkermag/2021/06/13/the-passage-experienced-a-surge-in-popularity-during/">The passage experienced a surge in popularity during</a>
+											<span class="post-date">June 13, 2021</span>
+									</li>
+					</ul>
+
+		</section>					</div>
+					<div id="secondary" class="widget-area walkermag-bottom walkermag-grid-4" role="complementary" >
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="walkermag-wraper copyright-wraper">
+		<div class="walkermag-container">
+								<div class="site-info walkerwp-grid-12 text-center">
+				<a href="https://wordpress.org/">
+					Proudly powered by WordPress				</a>
+				<span class="sep"> | </span>
+					Theme: WalkerMag by <a href="http://walkerwp.com/">WalkerWP</a>.			</div><!-- .site-info -->
+			
+				
+
+		
+			</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+			<a href="#" class="walkermag-top"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='https://demo.walkerwp.com/walkermag/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/demo.walkerwp.com\/walkermag\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3' id='contact-form-7-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.6.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/walkermag\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkermag\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/demo.walkerwp.com\/walkermag\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.6.0' id='wc-add-to-cart-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.6.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/walkermag\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkermag\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.6.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/walkermag\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/walkermag\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_47de5670230ae473df5b27397f2638bf","fragment_name":"wc_fragments_47de5670230ae473df5b27397f2638bf","request_timeout":"5000"};
+</script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.6.0' id='wc-cart-fragments-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/js/navigation.js?ver=1.0.0' id='walkermag-navigation-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/js/swiper-bundle.js?ver=6.5.9' id='swiper-bundle-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-content/themes/walkermag/js/walkermag-scripts.js?ver=5.8.3' id='walkermag-scripts-js'></script>
+<script src='https://demo.walkerwp.com/walkermag/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+
+</body>
+</html>
